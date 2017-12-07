@@ -9,3 +9,6 @@ Við byrjuðum svo að setja inn notendur með scripti og búa til GPO , eyþór
 
 # 7.12
 í gær 6.12 vorum ég og livinus að setja inn sameign og gera kvóta fyrir nemendur og kennara.
+
+# 7.12
+Eyþór vann í GPO og gerði um 5 aukalegar kröfur. screen saver, file extensions, disable task manager, og fleira
