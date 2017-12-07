@@ -1,6 +1,6 @@
 # Dagbók Eyþórs og livinus
 
-# 29
+# 29.11
 Í dag 29.11 byrja ég að skoða verkefnið og koma því í gang. ég og livinus settum upp domain fyrir báðar tölvurnar og dns.
 
 # 1.12
